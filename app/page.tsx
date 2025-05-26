@@ -4,12 +4,12 @@ import { BorderBeamComponent } from "./_components/BorderBeamCard";
 import { RevealLinks } from "@/app/_components/RevealLinks";
 import DrawCircleText from "@/app/_components/DrawCircleText";
 import ScrollStack from "@/app/_components/ScrollAnimation";
-import SmoothScrollSection from "@/app/_components/ScrollSection";
 import SlideTabsExample from "@/app/_components/SlideTabs";
+import TextParallaxImage from "./_components/TextParallaxImage";
 
 export default function Home() {
    return (
-    <></>
+      <></>
    );
 }
 
